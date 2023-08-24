@@ -1,5 +1,7 @@
 # Docker tutorial
 
+> Refer to [official documentations](https://docs.docker.com/) for more.
+
 ## Usage
 
 ### Build the image
